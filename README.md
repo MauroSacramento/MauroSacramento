@@ -13,11 +13,18 @@ Sou um Engenheiro Eletrônico apaixonado por criar soluções inovadoras e trans
 
 ## 🛠️ Tecnologias & Ferramentas
 - **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap
-- **Backend (aprendendo):** Java (Spring Boot) <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
-- **Controle de Versão:** Git & GitHub <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code> | <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+- **Backend (aprendendo):** Java (Spring Boot) 
+- **Controle de Versão:** Git & GitHub
 - **Outras Habilidades:** Programação para sistemas eletrônicos, integração de hardware/software
-<img width="200px" align="right" src="https://i.ibb.co/n3JFjSt/jeni02.png">
 
+<img width="200px" align="right" src="https://i.ibb.co/n3JFjSt/jeni02.png">
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 
 ### Estatísticas irrelevantes
 <div style="width: 100%;">
