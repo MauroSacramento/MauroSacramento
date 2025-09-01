@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 Olá, eu sou Mauro.
+
+🎯 **Engenheiro Eletrônico | Desenvolvedor Web | Entusiasta de Tecnologia**
+Sou um Engenheiro Eletrônico apaixonado por criar soluções inovadoras e transformá-las em realidade. Com uma sólida formação em eletrônica, tenho uma paixão crescente pelo mundo do desenvolvimento web, especialmente com **Angular**.
 
 ## Contatos:
 <div>
