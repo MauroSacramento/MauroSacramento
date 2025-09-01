@@ -21,10 +21,10 @@ Sou um Engenheiro Eletrônico apaixonado por criar soluções inovadoras e trans
 <div style="width: 100%;">
  <div style="display: flex;">
    <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 1 50%;">
-       <img align="top" src="https://github-readme-stats.vercel.app/api?username=onemohrtime&hide=stars&count_private=true&show_icons=true" />
+       <img align="top" src="https://github-readme-stats.vercel.app/api?username=MauroSacramento&hide=stars&count_private=true&show_icons=true" />
    </a>
    <a href="https://github.com/anuraghazra/convoychat" style="flex: 0 1 50%;">
-       <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onemohrtime&layout=compact&hide=vue,php" />
+       <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroSacramento&layout=compact&hide=vue,php" />
    </a>
  </div>
 </div>
