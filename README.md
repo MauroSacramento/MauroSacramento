@@ -13,11 +13,13 @@ Sou um Engenheiro Eletrônico apaixonado por criar soluções inovadoras e trans
 
 ## 🛠️ Tecnologias & Ferramentas
 - **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap
-- **Backend (aprendendo):** Java (Spring Boot), Node.js
-- **Controle de Versão:** Git & GitHub
+- **Backend (aprendendo):** Java (Spring Boot) <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+- **Controle de Versão:** Git & GitHub <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code> | <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 - **Outras Habilidades:** Programação para sistemas eletrônicos, integração de hardware/software
+<img width="200px" align="right" src="https://i.ibb.co/n3JFjSt/jeni02.png">
 
-### Stats of irrelavance
+
+### Estatísticas irrelevantes
 <div style="width: 100%;">
  <div style="display: flex;">
    <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 1 50%;">
