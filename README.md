@@ -16,8 +16,7 @@ Sou um Engenheiro Eletrônico apaixonado por criar soluções inovadoras e trans
 - **Backend (aprendendo):** Java (Spring Boot) 
 - **Controle de Versão:** Git & GitHub
 - **Outras Habilidades:** Programação para sistemas eletrônicos, integração de hardware/software
-
-<img width="200px" align="right" src="https://i.ibb.co/n3JFjSt/jeni02.png">
+<br>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
